@@ -1,0 +1,32 @@
+{
+  "name": "shigo gene Small #7",
+  "description": "shigo gene description",
+  "image": "https://data.zqn.wtf/tereqn/images/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Awesome Eye Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "lid",
+      "value": "Middle"
+    }
+  ]
+}

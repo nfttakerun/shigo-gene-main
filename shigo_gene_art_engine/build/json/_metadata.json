@@ -1,0 +1,322 @@
+[
+  {
+    "name": "shigo gene Medium #1",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/1.png",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Medium #2",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/2.png",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Medium #3",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/3.png",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #4",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/4.png",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #5",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/5.png",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #6",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/6.png",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #7",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/7.png",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #8",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/8.png",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Large #9",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/9.png",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "shigo gene Small #10",
+    "description": "shigo gene description",
+    "image": "https://data.zqn.wtf/tereqn/images/10.png",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Awesome Eye Color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "lid",
+        "value": "Low"
+      }
+    ]
+  }
+]

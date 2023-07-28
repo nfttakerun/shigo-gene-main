@@ -1,0 +1,32 @@
+{
+  "name": "shigo gene Medium #3",
+  "description": "shigo gene description",
+  "image": "https://data.zqn.wtf/tereqn/images/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Awesome Eye Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "lid",
+      "value": "Middle"
+    }
+  ]
+}
